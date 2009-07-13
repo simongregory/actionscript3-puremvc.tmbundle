@@ -1,6 +1,8 @@
 TextMate ActionScript 3 PureMVC Bundle
 ======================================
 
+[http://puremvc.org/](http://puremvc.org/)
+
 Installation
 ------------
 

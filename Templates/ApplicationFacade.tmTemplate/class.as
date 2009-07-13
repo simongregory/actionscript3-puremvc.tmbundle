@@ -11,15 +11,14 @@ import org.puremvc.as3.patterns.facade.Facade;
 
 /**
  * A concrete <code>Facade</code> for the application.
- * <p>
- * The main job of the <code>ApplicationFacade</code> is to act as a single
+ * 
+ * <p>The main job of the <code>ApplicationFacade</code> is to act as a single
  * place for mediators, proxies and commands to access and communicate
  * with each other without having to interact with the Model, View, and
  * Controller classes directly. All this capability it inherits from
  * the PureMVC Facade class.</p>
  *
- * <p>
- * This concrete Facade subclass is also a central place to define
+ * <p>This concrete Facade subclass is also a central place to define
  * notification constants which will be shared among commands, proxies and
  * mediators, as well as initializing the controller with Command to
  * Notification mappings.</p>

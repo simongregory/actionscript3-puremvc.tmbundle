@@ -19,6 +19,12 @@ import org.puremvc.as3.patterns.mediator.Mediator;
  * <li>direct manipulating of the viewComponent by method invocation
  * or property setting</li>
  * </ul>
+ * 
+ * @langversion ActionScript 3.0
+ * @playerversion Flash 9.0
+ * 
+ * @author ${TM_FULLNAME}
+ * @since  ${TM_DATE}
  */
 public class ${TM_NEW_FILE_BASENAME} extends Mediator
 {
