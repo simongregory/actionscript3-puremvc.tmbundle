@@ -1,0 +1,7 @@
+{ name = 'Completions';
+scope = 'source.actionscript.3';settings = {
+	comment = 'PureMVC (Standard Version) ActionScript 3 completion list';
+	completions = ('Controller','Facade','ICommand','IController','IFacade','IMediator','IModel','INotification','INotifier','IObserver','IProxy','IView','MacroCommand','Mediator','Model','NAME','Notification','Notifier','Observer','Proxy','SimpleCommand','View','addSubCommand','commandMap','compareNotifyContext','controller','data','execute','executeCommand','facade','getBody','getData','getInstance','getMediatorName','getName','getProxyName','getType','getViewComponent','handleNotification','hasCommand','hasMediator','hasProxy','initializeController','initializeFacade','initializeMacroCommand','initializeModel','initializeView','instance','listNotificationInterests','mediatorMap','mediatorName','model','notifyObserver','notifyObservers','observerMap','onRegister','onRemove','proxyMap','proxyName','registerCommand','registerMediator','registerObserver','registerProxy','removeCommand','removeMediator','removeObserver','removeProxy','retrieveMediator','retrieveProxy','sendNotification','setBody','setData','setNotifyContext','setNotifyMethod','setType','setViewComponent','toString','view','viewComponent');
+};
+uuid = '5571E17C-B7B0-4C12-A1F8-FDBA79AD08F9'; };
+}

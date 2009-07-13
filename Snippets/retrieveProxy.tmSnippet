@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>retrieveProxy(${1:proxyName:String})</string>
+	<key>name</key>
+	<string>retrieveProxy</string>
+	<key>scope</key>
+	<string>source.actionscript.3</string>
+	<key>tabTrigger</key>
+	<string>retrieveProxy</string>
+	<key>uuid</key>
+	<string>DB8021D8-30C1-4395-B166-C8BD274340CF</string>
+</dict>
+</plist>

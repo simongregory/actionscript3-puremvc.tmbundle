@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>retrieveMediator(${1:mediatorName:String})</string>
+	<key>name</key>
+	<string>retrieveMediator</string>
+	<key>scope</key>
+	<string>source.actionscript.3</string>
+	<key>tabTrigger</key>
+	<string>retrieveMediator</string>
+	<key>uuid</key>
+	<string>5D2E1E1D-2C90-4DE4-8FA2-F52D9A312F5E</string>
+</dict>
+</plist>

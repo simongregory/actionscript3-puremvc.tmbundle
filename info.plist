@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>znvagnvare@senzrjbex.bet</string>
+	<key>contactName</key>
+	<string>Simon Gregory</string>
+	<key>description</key>
+	<string>TextMate support for the standard version of the PureMVC ActionScript 3 Framework.</string>
+	<key>name</key>
+	<string>ActionScript 3 PureMVC</string>
+	<key>uuid</key>
+	<string>5C30D72C-7F08-462D-8E8A-49A9F7CC1396</string>
+</dict>
+</plist>

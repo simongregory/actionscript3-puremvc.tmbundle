@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comment</key>
+	<string>PureMVC Framework.
+	This language does not yet work as I have not yet worked out (if it is at all possible) how to inject #framework-puremvc up into the main AS3 language definition within the necessary scope.</string>
+	<key>fileTypes</key>
+	<array>
+		<string>as</string>
+	</array>
+	<key>firstLineMatch</key>
+	<string>\bAS3\b</string>
+	<key>foldingStartMarker</key>
+	<string>\{\s*$</string>
+	<key>foldingStopMarker</key>
+	<string>^\s*\}</string>
+	<key>keyEquivalent</key>
+	<string>^~A</string>
+	<key>name</key>
+	<string>ActionScript PureMVC</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>include</key>
+			<string>#framework-puremvc</string>
+		</dict>
+		<dict>
+			<key>include</key>
+			<string>source.actionscript.3</string>
+		</dict>
+	</array>
+	<key>repository</key>
+	<dict>
+		<key>framework-puremvc</key>
+		<dict>
+			<key>patterns</key>
+			<array>
+				<dict>
+					<key>match</key>
+					<string>(initialize(M(odel|acroCommand)|Controller|View|Facade)|addSubCommand)</string>
+					<key>name</key>
+					<string>support.function.protected.puremvc.actionscript.3</string>
+				</dict>
+				<dict>
+					<key>match</key>
+					<string>NAME</string>
+					<key>name</key>
+					<string>support.constant.puremvc.actionscript.3</string>
+				</dict>
+				<dict>
+					<key>match</key>
+					<string>(se(ndNotification|t(Body|Notify(Method|Context)|Type|Data|ViewComponent))|ha(s(Mediator|Command|Proxy)|ndleNotification)|notifyObserver(s)?|compareNotifyContext|M(odel|ediator|acroCommand)|toString|onRe(gister|move)|Notification|Controller|execute(Command)?|Observer|Proxy|listNotificationInterests|View|re(trieve(Mediator|Proxy)|gister(Mediator|Command|Observer|Proxy)|move(Mediator|Command|Observer|Proxy))|get(MediatorName|Body|Name|Type|Instance|Data|ProxyName|ViewComponent)|Facade)</string>
+					<key>name</key>
+					<string>support.function.puremvc.actionscript.3</string>
+				</dict>
+				<dict>
+					<key>match</key>
+					<string>(M(odel|ediator|acroCommand)|SimpleCommand|Notifi(cation|er)|Controller|I(M(odel|ediator)|Notifi(cation|er)|Co(ntroller|mmand)|Observer|Proxy|View|Facade)|Observer|Proxy|View|Facade)</string>
+					<key>name</key>
+					<string>support.class.puremvc.actionscript.3</string>
+				</dict>
+				<dict>
+					<key>match</key>
+					<string>(co(ntroller|mmandMap)|instance|observerMap|data|proxy(Map|Name)|view(Component)?|facade|m(odel|ediator(Map|Name)))</string>
+					<key>name</key>
+					<string>support.property.protected.puremvc.actionscript.3</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>scopeName</key>
+	<string>source.actionscript.3.puremvc</string>
+	<key>uuid</key>
+	<string>78D62CC4-E427-48DA-840F-E11DD7B4AAFF</string>
+</dict>
+</plist>

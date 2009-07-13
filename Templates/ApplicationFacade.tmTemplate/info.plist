@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>command</key>
+	<string># This template is not designed to be used directly, but via the cla tab trigger in the ActionScript 3 bundle.</string>
+	<key>extension</key>
+	<string>as</string>
+	<key>name</key>
+	<string>ApplicationFacade</string>
+	<key>uuid</key>
+	<string>8EFFE988-FDEB-43FE-AAB7-3DDC2F86C5B6</string>
+</dict>
+</plist>

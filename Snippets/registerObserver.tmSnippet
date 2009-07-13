@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>registerObserver(${1:notificationName:String},${2:observer:IObserver})</string>
+	<key>name</key>
+	<string>registerObserver</string>
+	<key>scope</key>
+	<string>source.actionscript.3</string>
+	<key>tabTrigger</key>
+	<string>registerObserver</string>
+	<key>uuid</key>
+	<string>A96431A1-91BF-43A4-8A33-16BECE4B1439</string>
+</dict>
+</plist>

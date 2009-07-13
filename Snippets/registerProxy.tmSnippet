@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>registerProxy(proxy:IProxy)</string>
+	<key>name</key>
+	<string>registerProxy</string>
+	<key>scope</key>
+	<string>source.actionscript.3</string>
+	<key>tabTrigger</key>
+	<string>registerProxy</string>
+	<key>uuid</key>
+	<string>94CFC25C-D87E-46E5-9E82-863B4081A7C5</string>
+</dict>
+</plist>

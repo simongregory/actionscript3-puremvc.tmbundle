@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>removeCommand(${1:notificationName:String})</string>
+	<key>name</key>
+	<string>removeCommand</string>
+	<key>scope</key>
+	<string>source.actionscript.3</string>
+	<key>tabTrigger</key>
+	<string>removeCommand</string>
+	<key>uuid</key>
+	<string>7D6B7C9D-2086-49EC-835C-B0C861548A15</string>
+</dict>
+</plist>

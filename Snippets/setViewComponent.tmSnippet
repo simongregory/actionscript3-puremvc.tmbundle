@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>setViewComponent(${1:viewComponent:Object})</string>
+	<key>name</key>
+	<string>setViewComponent</string>
+	<key>scope</key>
+	<string>source.actionscript.3</string>
+	<key>tabTrigger</key>
+	<string>setViewComponent</string>
+	<key>uuid</key>
+	<string>3697C0F1-8B94-4C73-9946-211905B96B9B</string>
+</dict>
+</plist>
