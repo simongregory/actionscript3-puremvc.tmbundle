@@ -6,16 +6,9 @@
 	<string>nop</string>
 	<key>command</key>
 	<string>. "$TM_SUPPORT_PATH/lib/webpreview.sh"
-html_header "ActionScript Framework Bundle Help" "Framework"
+html_header "ActionScript 3 PureMVC Bundle Help" "PureMVC"
 
-"$TM_SUPPORT_PATH/lib/markdown_to_help.rb" &lt;&lt;'EOF'
-# Overview
-
-[PureMVC Framework][1]
-
-[1]: http://puremvc.org/
-
-EOF
+"$TM_SUPPORT_PATH/lib/markdown_to_help.rb" &lt; "$TM_BUNDLE_PATH/README.mdown"
 
 html_footer
 </string>

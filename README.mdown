@@ -1,7 +1,7 @@
 TextMate ActionScript 3 PureMVC Bundle
 ======================================
 
-[http://puremvc.org/](http://puremvc.org/)
+A TextMate bundle for working with the [PureMVC](http://puremvc.org/) ActionScript 3 Framework. This bundle is currently work in progress.
 
 Installation
 ------------
