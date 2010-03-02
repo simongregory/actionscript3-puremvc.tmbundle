@@ -10,7 +10,7 @@
 		<string>as</string>
 	</array>
 	<key>firstLineMatch</key>
-	<string>\bAS3\b</string>
+	<string>\bAS3\s+PMVC\b</string>
 	<key>foldingStartMarker</key>
 	<string>\{\s*$</string>
 	<key>foldingStopMarker</key>
